@@ -68,3 +68,19 @@ p{
     display: flex;
     justify-content: center;
 }
+
+.last-button1{
+    background-color: #0020F4;
+    margin-left:  500px;
+    margin-right: 500px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border-radius: 65px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.p1,.p2,.p3{
+    margin-right: 100px;
+    margin-left: 300px;
+}
