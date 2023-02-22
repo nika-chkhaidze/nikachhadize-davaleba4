@@ -4,11 +4,15 @@
 
 header{
     background-color: #0020F4;
-    height: 387px;
+    height:;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 280px;
 }
 .main-img{
-    margin-left: 100px;
-    margin-top: 20px;
+    
 }
 
 ul{
@@ -25,12 +29,13 @@ a{
     background-color: #ffffff;
     border-radius: 45px;
     color: black;
-    padding-left: 43px;
     padding-top: 18px;
+    padding-left: 43px;
     padding-bottom: 18px;
     padding-right: 43px;
 }
 
 nav{
-    margin-top: 20px;
+  padding-top: 5px;
+  text-align: center;
 }
