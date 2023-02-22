@@ -1,0 +1,36 @@
+*{
+    margin:0;
+}
+
+header{
+    background-color: #0020F4;
+    height: 387px;
+}
+.main-img{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+ul{
+    list-style-type: none;
+    display: inline;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.contact{
+    background-color: #ffffff;
+    border-radius: 45px;
+    color: black;
+    padding-left: 43px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 43px;
+}
+
+nav{
+    margin-top: 20px;
+}
