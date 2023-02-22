@@ -81,6 +81,9 @@ p{
 }
 
 .p1,.p2,.p3{
-    margin-right: 100px;
-    margin-left: 300px;
+    margin-right: 400px;
+    margin-left: 400px;
+    display: flex;
+    justify-content: center;
+    column-gap: 15px;
 }
