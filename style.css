@@ -3,16 +3,13 @@
 }
 
 header{
-    background-color: #0020F4;
-    height:;
+    background-color: #0020F4;  
     display: flex;
     align-items: center;
     justify-content: center;
     padding-top: 40px;
     padding-bottom: 280px;
-}
-.main-img{
-    
+    column-gap: 30px;
 }
 
 ul{
@@ -38,4 +35,8 @@ a{
 nav{
   padding-top: 5px;
   text-align: center;
+}
+
+div{
+    margin-left: 30px;
 }
