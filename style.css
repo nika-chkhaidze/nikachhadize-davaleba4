@@ -51,5 +51,20 @@ div{
 }
 
 .main-text{
-  margin-left: 367px;
+  margin-left: 158px;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+.last-button{
+    display: flex;
+    justify-content: center;
 }
